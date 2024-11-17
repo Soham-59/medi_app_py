@@ -11,3 +11,6 @@ hashlib==0.0.2
 smtplib==0.0.0
 datetime==5.1
 json==2.0.9
+setuptools
+wheel
+
