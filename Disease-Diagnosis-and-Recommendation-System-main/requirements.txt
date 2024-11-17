@@ -1,6 +1,6 @@
 streamlit==1.23.0
 pandas==2.1.2
-scikit-learn==1.2.2  # You can also try upgrading to a newer version if needed
+scikit-learn==0.24.2  # You can also try upgrading to a newer version if needed
 numpy==1.24.2
 Pillow==9.5.0
 streamlit-option-menu==0.3.1
@@ -14,3 +14,4 @@ json==2.0.9
 setuptools
 wheel
 cython==0.29.33  # Ensure cython is updated to avoid compilation issues
+python_version == 3.9
