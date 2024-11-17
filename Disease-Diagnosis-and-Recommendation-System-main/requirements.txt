@@ -1,5 +1,5 @@
 streamlit==1.23.0
-pandas==2.0.3
+pandas==2.1.2
 scikit-learn==1.2.2
 numpy==1.24.2
 Pillow==9.5.0
@@ -8,3 +8,6 @@ streamlit-folium==0.1.0
 folium==0.14.0
 requests==2.28.1
 hashlib==0.0.2
+smtplib==0.0.0
+datetime==5.1
+json==2.0.9
