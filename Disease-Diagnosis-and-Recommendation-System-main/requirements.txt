@@ -1,6 +1,6 @@
 streamlit==1.23.0
 pandas==2.1.2
-scikit-learn==1.2.2
+scikit-learn==1.2.2  # You can try upgrading to 1.3.0 or higher if this doesn't resolve the issue
 numpy==1.24.2
 Pillow==9.5.0
 streamlit-option-menu==0.3.1
@@ -13,4 +13,5 @@ datetime==5.1
 json==2.0.9
 setuptools
 wheel
+cython==0.29.33  # Ensure that Cython is up-to-date
 
